@@ -1,4 +1,4 @@
-# Tutorial
+# Setup
 
 First, we need to ensure you have a recent version of **Anaconda** installed: 
 
