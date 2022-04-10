@@ -42,4 +42,5 @@ conda env create -f environment.yml
 conda activate flask
 ```
 
-- Open the file instructions.ipynb
+- Open the file `instructions.ipynb` in your code editor
+
